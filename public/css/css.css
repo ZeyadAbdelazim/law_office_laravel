@@ -1,0 +1,54 @@
+.articale{
+    border: 1px border solid;
+    margin: auto;
+
+    }
+    
+    .articale img{    margin-left: 45%;
+
+      width: 300px;
+      height: 250px;
+      border-radius: 10px 10px 0 0;
+      -webkit-border-radius: 10px 10px 0 0;
+      -moz-border-radius: 10px 10px 0 0;
+      -ms-border-radius: 10px 10px 0 0;
+      -o-border-radius: 10px 10px 0 0;
+      
+}
+
+    .articale .info{
+        margin-left: 45%;
+        background-color:lightslategray;
+        padding: 10px;
+        color: aliceblue;
+        width: 300px;
+        height: 150px;
+        border-radius: 0 0 10px 10px;
+        -webkit-border-radius: 0 0 10px 10px;
+        -moz-border-radius: 0 0 10px 10px;
+        -ms-border-radius: 0 0 10px 10px;
+        -o-border-radius: 0 0 10px 10px;
+        overflow:auto;
+}
+
+.articale .displayImage img{
+    margin: 0%;
+    width: 365px;
+    height: 300px;
+    border-radius: 10px 0px 0px 10px;
+    -webkit-border-radius: 10px 0px 0px 10px;
+    -moz-border-radius: 10px 0px 0px 10px;
+    -ms-border-radius: 10px 0px 0px 10px;
+    -o-border-radius: 10px 0px 0px 10px;
+}
+.articale .displayInfo{
+    background-color:lightslategray;
+    padding: 20px;
+    color: aliceblue;
+    border-radius: 0 10px 10px 0px;
+    -webkit-border-radius: 0 10px 10px 0px;
+    -moz-border-radius: 0 10px 10px 0px;
+    -ms-border-radius: 0 10px 10px 0px;
+    -o-border-radius: 0 10px 10px 0px;
+    overflow:auto;
+}
